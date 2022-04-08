@@ -16,7 +16,7 @@ Hola, aquí vas a leer un poco más sobre mí 🤩
 > tecnología (crecimiento profesional), salud y nutrición (bienestar físico) hasta
 > cosas de inteligencia emocional (balance entre lo emocional y racional.)
 
-![profile](content/images/profile.jpg)
+![profile](https://github.com/CristopherA96/my_launchx_blog/blob/a13a16be2fa33803544f5d3d31c262cb4170ec0c/content/images/profile.jpg)
 
 > Una frase con la que me identifico mucho es ***El precio de un futuro mejor, es
 > la utilidad de postergar el placer inmediato***
