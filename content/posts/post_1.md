@@ -19,7 +19,7 @@ Durante muchos años se ha hablado sobre esa cultura que debe tener un profesion
 
 De igual manera, al hablar de cultura se toma en cuenta que es el conjunto de conocimientos no especializados (algunas soft skills) adquiridos por la persona gracias al desarrollo de sus facultades intelectuales, ya sea por medio de sus estudios, el trabajo, el ocio, entre otras cosas.
 
-![culture]()
+![culture](https://github.com/CristopherA96/my_launchx_blog/blob/4486e9bb4c49af8984ee6af74b6bfab1781d421d/content/images/culture.png)
 
 Es por ello que un buen desarrollador de software aparte de ser intelectualmente bueno, debe tener esa ética para saber tomar decisiones que pueden afectar o no a los usuarios, ya que con este mundo tan globalizado es muy común que el tema de la **seguridad y privacidad** sea un tema que ya muchos omiten, porque lo que quieren es aumentar sus ventas o espiar a sus competidores.
 
