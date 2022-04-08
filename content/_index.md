@@ -14,7 +14,7 @@ Mis interéses son:
 - Salud y nutrición.
 - Pasantías de investigación.
 
-![profile]( "Profile")
+![profile](data/images/profile.jpg "Profile")
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
