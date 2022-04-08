@@ -16,7 +16,7 @@ Hola, aquí vas a leer un poco más sobre mí 🤩
 > tecnología (crecimiento profesional), salud y nutrición (bienestar físico) hasta
 > cosas de inteligencia emocional (balance entre lo emocional y racional.)
 
-![profile](images/profile.jpg)
+![profile](./images/profile.jpg)
 
 > Una frase con la que me identifico mucho es ***El precio de un futuro mejor, es
 > la utilidad de postergar el placer inmediato***
@@ -45,5 +45,5 @@ Desde que recuerdo siempre he tenido en mente poder ayudar a personas con herram
 
 > **SEEDS Iceland**  
 
-> **Innovaccion Virtual - Launch X
+> **Innovaccion Virtual - Launch X**
 
