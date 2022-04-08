@@ -1,6 +1,6 @@
 ---
 title: "Mis expectativas para Backend con Node JS"
-date: 2022-02-21T18:16:21-06:00
+date: 2022-04-07
 description: 'Este es mi post de la travesía en la Misión de Backend con Node JS de Launch X. Aquí te platico un poco sobre mis expectativas del curso.'
 ---
 
