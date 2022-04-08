@@ -2,7 +2,7 @@
 title: 'About me'
 menu:
   main:
-    name: "About Me"
+    name: "AboutMe"
 ---
 
 ## Who am I
@@ -15,6 +15,8 @@ Hola, aquí vas a leer un poco más sobre mí 🤩
 > y físico, es por ello que mis temas de interes van desde cuestiones de 
 > tecnología (crecimiento profesional), salud y nutrición (bienestar físico) hasta
 > cosas de inteligencia emocional (balance entre lo emocional y racional.)
+
+![profile](images/profile.jpg)
 
 > Una frase con la que me identifico mucho es ***El precio de un futuro mejor, es
 > la utilidad de postergar el placer inmediato***
